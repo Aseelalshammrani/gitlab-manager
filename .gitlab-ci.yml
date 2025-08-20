@@ -1,0 +1,3 @@
+include:
+  - project: "devops/cicd/build-pipeline"
+    file: "node20.yml"
