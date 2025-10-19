@@ -10,7 +10,7 @@ The Gateway Manager API is a Node.js-based service designed to automatically syn
 - Synchronizes those changes to multiple target repositories.
 - Handles file changes (additions, modifications, deletions).
 - Ensures only committed changes are reflected in the target repositories.
-- Supports multiple target repositories for synchronization, config`ured dynamically via environment variables.
+- Supports multiple target repositories for synchronization, configured dynamically via environment variables.
 - **Excludes certain files from synchronization** via environment configuration.
 - Cleans up temporary files and repositories after syncing.
 
